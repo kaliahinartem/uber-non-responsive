@@ -1,0 +1,29 @@
+.main-banner {
+    padding-bottom: 30px;
+    position: relative;
+}
+
+.main-banner__link {
+    text-transform: uppercase;
+    color: #42c5d8;
+    font-weight: 600;
+    font-size: 0.9rem;
+    display: block;
+    padding: 0.2rem 0.2rem 0.6rem;
+    position: absolute;
+    top: 5.8rem;
+}
+
+.main-banner__link--underline {
+    display: block;
+    height: 4px;
+}
+
+.main-banner__link:hover {
+    background-color: #42c5d8;
+}
+
+.main-banner__image {
+    width: 100%;
+    margin-top: 15px;
+}

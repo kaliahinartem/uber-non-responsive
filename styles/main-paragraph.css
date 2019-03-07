@@ -1,0 +1,13 @@
+.main-paragraph {
+    padding-top: 1.2rem;
+    font-size: 2.3rem;
+    font-weight: 400;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.main-paragraph__header {
+    display: block;
+    width: 50%;
+}

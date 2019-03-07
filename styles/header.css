@@ -1,0 +1,36 @@
+.page-header {
+    padding-top: 40px;
+    min-height: 160px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logo-container__logo {
+    width: 80px;
+}
+
+.logo-container__slogan {
+    padding-top: 0.5rem;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu__link {
+    padding: 1rem;
+    font-weight: 600;
+}
+
+.menu__link:visited {
+    color: #1c1b1b;
+}
